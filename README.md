@@ -1,6 +1,6 @@
-# Hi, I'm Anjali Chavan 👋
+### Hi, I'm Anjali Chavan 👋
 
-### Java Full Stack Developer | MERN Stack Developer
+Java Full Stack Developer | MERN Stack Developer
 
 MSc Computer Science graduate passionate about building responsive web applications and full-stack solutions.
 
@@ -10,17 +10,17 @@ MSc Computer Science graduate passionate about building responsive web applicati
 - 🌱 Continuously improving my development skills through hands-on projects.
 - 🤝 Interested in collaborating on web development and full-stack projects.
 
-### Tech Stack
+Tech Stack
 
-**Languages:** Java, JavaScript, SQL, HTML5, CSS3
+Languages: Java, JavaScript, SQL, HTML5, CSS3
 
-**Frontend:** React.js, Bootstrap, Tailwind CSS
+Frontend: React.js, Bootstrap, Tailwind CSS
 
-**Backend:** Spring Boot, Spring MVC, Node.js, Express.js, Hibernate, JDBC, REST APIs
+Backend: Spring Boot, Spring MVC, Node.js, Express.js, Hibernate, JDBC, REST APIs
 
-**Databases:** Oracle Database, MySQL, MongoDB
+Databases: Oracle Database, MySQL, MongoDB
 
-**Tools:** Git, GitHub, Postman, VS Code, Eclipse, Spring Tool Suite
+Tools: Git, GitHub, Postman, VS Code, Eclipse, Spring Tool Suite
 
 ### Featured Projects
 
