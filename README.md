@@ -32,5 +32,4 @@ MSc Computer Science graduate passionate about building responsive web applicati
 
 - 🌐 Portfolio: https://www.anjalichavan.in
 - 💼 LinkedIn: https://www.linkedin.com/in/chavananjali
-- 📧 Email: anjaliychavan6@gmail.com
-
+- 📧 Email: 
